@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.23.25",
+    "node-fetch": "^3.3.2",
+    "recharts": "^3.5.1",
+    "ws": "^8.18.3"
+  }
+}
