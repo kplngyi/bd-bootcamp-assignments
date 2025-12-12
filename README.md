@@ -81,7 +81,7 @@
 
 1.  克隆本仓库：
     ```bash
-    git clone [https://github.com/kplngyi/bd-bootcamp-assignments]
+    git clone https://github.com/kplngyi/bd-bootcamp-assignments
     ```
 2.  进入任一项目文件夹：
     ```bash
