@@ -49,9 +49,9 @@
 
 ### ⚙️ 技术栈 (Tech Stack)
 
-* **前端框架：** [React / Vue] (请根据您的选择填写)
-* **实时通信：** WebSocket (原生或 Socket.io)
-* **后端服务：** Node.js / Go / Python (提供 WebSocket 服务和数据持久化)
+* **前端框架：** [React]
+* **实时通信：** WebSocket
+* **后端服务：** Node.js 
 * **图表库：** ECharts / AntV G2 (用于可视化大屏)
 
 ### ✨ 核心功能 (Core Features)
