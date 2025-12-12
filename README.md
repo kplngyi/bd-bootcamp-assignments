@@ -1,5 +1,5 @@
 # 🚀 字节工程训练营项目总结 (Engineering Bootcamp Projects)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)]()
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/kplngyi/bd-bootcamp-assignments)
 
 
 1.  **电商商品列表页开发** (eComm List Page)
@@ -81,7 +81,7 @@
 
 1.  克隆本仓库：
     ```bash
-    git clone [仓库地址]
+    git clone [https://github.com/kplngyi/bd-bootcamp-assignments]
     ```
 2.  进入任一项目文件夹：
     ```bash
